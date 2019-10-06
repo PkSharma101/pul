@@ -1,0 +1,8 @@
+   18  git init 
+   32  git add .                               
+   34  git commit -m "start"
+   35  git config --global user.email "pul22699@gmail.com"
+   36  git config --global user.name "PkSharma101"
+   45  git remote add origin https://github.com/PkSharma101/test.git
+   47  git push origin master
+   
